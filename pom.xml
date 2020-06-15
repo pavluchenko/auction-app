@@ -21,7 +21,7 @@
         <slf4j.version>1.7.5</slf4j.version>
         <javax.persistence.version>1.0</javax.persistence.version>
         <h2.version>1.4.193</h2.version>
-        <hibernate.validator.version>5.3.4.Final</hibernate.validator.version>
+        <hibernate.validator.version>5.3.5.Final</hibernate.validator.version>
         <jersy.json.version>2.22.2</jersy.json.version>
         <h2.version>1.4.193</h2.version>
         <junit.version>4.12</junit.version>

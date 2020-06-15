@@ -33,7 +33,7 @@
         <javax.mail>1.4.7</javax.mail>
         <commons.fileupload>1.4</commons.fileupload>
         <com.amazonaws>1.11.240</com.amazonaws>
-        <apache.commons>4.0</apache.commons>
+        <apache.commons>4.1</apache.commons>
     </properties>
 
     <profiles>

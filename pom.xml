@@ -15,7 +15,7 @@
         <version.spring>5.1.8.RELEASE</version.spring>
         <spring-data-jpa.version>2.1.9.RELEASE</spring-data-jpa.version>
         <hibernate.version>5.4.3.Final</hibernate.version>
-        <spring-security.version>5.1.5.RELEASE</spring-security.version>
+        <spring-security.version>5.2.10.RELEASE</spring-security.version>
         <postgresql.version>9.4-1206-jdbc4</postgresql.version>
         <jstl.version>1.2</jstl.version>
         <slf4j.version>1.7.5</slf4j.version>
